@@ -5,6 +5,7 @@ export default defineNuxtConfig({
   modules: [
     // https://github.com/nuxt-modules/plausible
     '@nuxtjs/plausible',
+    '@nuxtjs/tailwindcss',
     // https://github.com/nuxt/devtools
     '@nuxt/devtools'
   ]
