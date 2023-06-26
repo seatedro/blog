@@ -2,12 +2,11 @@ export default defineAppConfig({
   alpine: {
     title: "rohitp934's blog",
     description: "Inside the head of a curious programmer.",
-    // image: "/social-card-preview.png",
     image: {
-      src: "/social-card-preview.png",
-      alt: "An image showcasing my project.",
-      width: 400,
-      height: 300
+      src: "/og.png",
+      alt: "shitposting ftw 🗿",
+      width: 1200,
+      height: 600
     },
     header: {
       position: "left", // possible value are : | 'left' | 'center' | 'right'

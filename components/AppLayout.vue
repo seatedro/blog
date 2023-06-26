@@ -1,6 +1,5 @@
 <script setup lang="ts">
 const alpine = useAppConfig().alpine;
-console.log(alpine);
 defineProps({
   padded: {
     type: Boolean,
