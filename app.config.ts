@@ -1,6 +1,6 @@
 export default defineAppConfig({
   alpine: {
-    title: "rohitp934's blog",
+    title: "seatedro's blog",
     description: "Inside the head of a curious programmer.",
     image: {
       src: "/og.png",
@@ -19,7 +19,7 @@ export default defineAppConfig({
     footer: {
       credits: {
         enabled: true, // possible value are : true | false
-        repository: "https://www.github.com/rohitp934/blog.git",
+        repository: "https://www.github.com/seatedro/blog.git",
         text: "GitHub"
       },
       navigation: true, // possible value are : true | false
@@ -27,9 +27,9 @@ export default defineAppConfig({
       message: "Follow me on" // string that will be displayed in the footer (leave empty or delete to disable)
     },
     socials: {
-      twitter: "rohitp934",
-      instagram: "_rohitp934",
-      github: "rohitp934",
+      twitter: "seatedro",
+      instagram: "seatedro",
+      github: "seatedro",
       Medium: {
         icon: "uil:medium-m",
         label: "Medium",
